@@ -32,6 +32,13 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 </p>
 
 
+### 📈 GitHub Streak
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jinkaneha&theme=algolia"/>
+</p>
+
+
+
 
 
 <p align="center"> <a href="https://www.linkedin.com/in/jinka-neha-a97353245/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jinkaneha_LinkedIn"/></a>
@@ -43,6 +50,11 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 
 
-[linkedin]: https://www.linkedin.com/in/jinka-neha-a97353245/
-[github]:https://github.com/jinkaneha
-[gmail]:mailto:nehasrinivas1107@gmail.com
+### 📞 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/jinka-neha-a97353245/)
+- [GitHub](https://github.com/jinkaneha)
+- [Email](mailto:nehasrinivas1107@gmail.com)
+
+### 📫 Follow Me
+- ![GitHub followers](https://img.shields.io/github/followers/jinkaneha?label=Follow&style=social) 
+- ![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)
