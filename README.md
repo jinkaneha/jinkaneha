@@ -52,12 +52,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 </p>
 
 
-
-
-
-<p align="center"> <a href="https://www.linkedin.com/in/jinka-neha-a97353245/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jinkaneha_LinkedIn"/></a>
-</p>
-
 <hr>
 
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
