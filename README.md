@@ -21,7 +21,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/Anchals24">
+<a href="https://github.com/jinkaneha">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jinkaneha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
   
