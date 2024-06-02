@@ -12,7 +12,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 ### 🎓 Education
-- **BTECH**,  - CMR COLLEGE OF ENGINEERING & TECHNOLOGY (2021-2025)
+- **B.Tech in Artificial Intelligence and Data Science**, CMR College of Engineering & Technology (2021-2025)
 
 
 
