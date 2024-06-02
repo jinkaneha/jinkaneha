@@ -69,6 +69,3 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 - [GitHub](https://github.com/jinkaneha)
 - [Email](mailto:nehasrinivas1107@gmail.com)
 
-### 📫 Follow Me
-- ![GitHub followers](https://img.shields.io/github/followers/jinkaneha?label=Follow&style=social) 
-- ![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)
