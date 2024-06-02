@@ -11,6 +11,9 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 - I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in C++. 
 
 <!-- ----------- TECH STACK SECTION ------------ -->
+### 🎓 Education
+- **BTECH**,  - CMR COLLEGE OF ENGINEERING & TECHNOLOGY (2021-2025)
+
 
 
 <!-- ----------- TECH STACK SECTION ------------ -->
