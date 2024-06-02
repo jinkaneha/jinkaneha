@@ -12,7 +12,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 
-![C++]([https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw1I07418_hWcJ9FrabdWTKM&ust=1717421965957000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCo88SFvYYDFQAAAAAdAAAAABAE))
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
