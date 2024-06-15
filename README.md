@@ -60,6 +60,5 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 ### 📞 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/jinka-neha-a97353245/)
-- [GitHub](https://github.com/jinkaneha)
 - [Email](mailto:nehasrinivas1107@gmail.com)
 
