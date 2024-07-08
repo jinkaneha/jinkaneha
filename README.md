@@ -7,7 +7,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 - I am a self driven passionate coder who loves to solve problems and write efficient codes.
 - My primary coding language: C++.
 - I am happy to discuss about: Data Structures and Algorithms, Programming in C++/Python.
-- I am looking forward to collaborate on Open-Source Projects.
 - I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in C++. 
 
 <!-- ----------- TECH STACK SECTION ------------ -->
